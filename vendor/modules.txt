@@ -13,9 +13,6 @@ github.com/ChrisTrenkamp/goxpath/tree/xmltree
 github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlbuilder
 github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlele
 github.com/ChrisTrenkamp/goxpath/tree/xmltree/xmlnode
-# github.com/EngineerBetter/stopover v2.0.0+incompatible
-## explicit
-github.com/EngineerBetter/stopover
 # github.com/SpectoLabs/goproxy v0.0.0-20200304143951-5f8c6dc15bd5
 github.com/SpectoLabs/goproxy
 github.com/SpectoLabs/goproxy/ext/auth
@@ -69,7 +66,7 @@ github.com/concourse/concourse/go-concourse/concourse/internal
 github.com/concourse/concourse/vars
 # github.com/corpix/uarand v0.0.0-20170903190822-2b8494104d86
 github.com/corpix/uarand
-# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible => github.com/dgrijalva/jwt-go v2.6.1-0.20160504172548-40bd0f3b4891+incompatible
 github.com/dgrijalva/jwt-go
 # github.com/dsnet/compress v0.0.0-20171208185109-cc9eb1d7ad76
 github.com/dsnet/compress/brotli
@@ -311,3 +308,4 @@ k8s.io/client-go/third_party/forked/golang/template
 k8s.io/client-go/util/jsonpath
 # sigs.k8s.io/yaml v1.2.0
 sigs.k8s.io/yaml
+# github.com/dgrijalva/jwt-go => github.com/dgrijalva/jwt-go v2.6.1-0.20160504172548-40bd0f3b4891+incompatible

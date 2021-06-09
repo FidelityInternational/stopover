@@ -1,9 +1,10 @@
-module github.com/FidelityInternational/stopover
+module github.com/EngineerBetter/stopover
 
 go 1.16
 
+replace github.com/dgrijalva/jwt-go => github.com/dgrijalva/jwt-go v2.6.1-0.20160504172548-40bd0f3b4891+incompatible
+
 require (
-	github.com/EngineerBetter/stopover v2.0.0+incompatible
 	github.com/SpectoLabs/hoverfly v1.3.2
 	github.com/concourse/concourse v1.6.1-0.20210527193308-09f694307bf4
 	github.com/onsi/ginkgo v1.16.2
